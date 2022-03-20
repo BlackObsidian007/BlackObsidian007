@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackObsidian007
-- 👀 I’m interested in reading, research, learning and discovering new places and things
-- 🌱 I’m currently learning the basic of html and css
+- 👀 I’m interested in reading, research, writing, learning and discovering new places and things
+- 🌱 I’m currently learning the basics of html and css
 - 💞️ I’m looking to collaborate with other people that have more knowledge than i do and work with organisations that will be an open source of exposure for me
 - 📫 How to reach me : faitholufeming@gmail.com
 
